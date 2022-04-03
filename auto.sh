@@ -1,0 +1,1 @@
+yum -y update ; yum -y install squid ; yum -y install nano ; systemctl start squid ; systemctl enable squid ; cd /etc/squid ; rm squid.conf ; curl -o squid.conf https://raw.githubusercontent.com/kimpro12/MCBOT/main/squid.conf ; systemctl restart squid
