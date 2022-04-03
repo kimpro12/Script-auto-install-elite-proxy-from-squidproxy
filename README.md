@@ -1,6 +1,7 @@
 # Script-auto-install-elite-proxy-from-squidproxy
 
 - This script is for centos 7
+- You must run the script on root (sudo -i) then run the script
 
 - Port of the ip is 8888 ip is your public ip address
 
